@@ -1,5 +1,5 @@
 ### 👋 Hey there 
-My name is Rick, and I'm a SWE interested in devevlopment, large-scale computing, and/or machine learning.
+My name is Rick, and I'm a SWE interested in automation, large-scale computing, and/or machine learning.
 
 ### ⚡ Interests
 - :snake: Making life easy with Python 
